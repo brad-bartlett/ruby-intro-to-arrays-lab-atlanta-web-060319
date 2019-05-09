@@ -1,0 +1,1 @@
+Array.new = ["garfield", "maru"]
