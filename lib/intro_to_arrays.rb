@@ -1,1 +1,1 @@
-Array.new = ["garfield", "maru"]
+Array.new ["garfield", "maru"]
