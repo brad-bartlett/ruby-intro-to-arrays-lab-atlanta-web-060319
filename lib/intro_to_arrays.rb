@@ -1,1 +1,1 @@
-my_new_array = []
+names = Array.new
